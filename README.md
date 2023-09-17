@@ -1,3 +1,10 @@
+the app is completely server side, so there will be a bug of scroll resetting when you try to update search parameters. This is a bug of nextjs so hopefully they will resolve it. But if you want to resolve this error i suggest you convert it to client side.
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
